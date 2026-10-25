@@ -72,7 +72,7 @@ I shoot and edit photos as [@kislay.raw](https://www.instagram.com/kislay.raw). 
 
 ## 🎓 Education
 
-**BITS Pilani, Goa Campus**, 2021 to 2025. Public Relations Coordinator, Team Green (environment), since July 2023.
+**BITS Pilani, Goa Campus**, 2021 to 2025. Academic Head, ASCII.
 
 ## 🛠 Toolbox
 
