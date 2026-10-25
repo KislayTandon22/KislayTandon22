@@ -2,10 +2,12 @@
 
 # Hi, I'm Kislay 👋
 
-**Associate Product Manager · ex-Software Engineering Intern at Walmart and Sprinklr**
+**Associate Product Manager · AI agents, automation and platform products**
+Ex-software engineering intern at Walmart and Sprinklr
 
-I build products by shipping them: I write the spec, then open the pull request.
+I build AI agents and automations, test them like a product owner, and turn what works into demos and reusable skills.
 
+[![Instagram](https://img.shields.io/badge/Instagram-@kislay.raw-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kislay.raw)
 [![Email](https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kislayr.neetandon@gmail.com)
 [![Profile views](https://komarev.com/ghpvc/?username=KislayTandon22&style=for-the-badge&color=2ea44f&label=Profile%20views)](https://github.com/KislayTandon22)
 
@@ -13,31 +15,52 @@ I build products by shipping them: I write the spec, then open the pull request.
 
 ---
 
-## 🧭 What I do
+## 🎯 What I'm looking for
 
-I sit between users, design and engineering. I started as a software intern, so I read the code, question the estimates and
-can prototype an idea before a roadmap item exists.
+Product and APM roles in **AI agents, LLM products, automation and developer platforms**: places where someone who can build the thing, test it and explain it to customers is useful.
 
-- **Product:** discovery, problem framing, PRDs, prioritisation, metrics, launch.
-- **Engineering:** Rust, Swift, TypeScript, Python, SQL; I'm comfortable in a code review.
-- **Craft:** UX details that users feel but never mention: hit targets, empty states, error copy.
+## 🤖 AI agents and no-code automation
 
-## 🏢 Where I've worked
+- **Building agents:** AI agents and multi-agent teams, from instructions and tools to end-to-end tests.
+- **Quick demos:** from idea to a working agent or flow fast enough to show in a meeting, then a narrated demo video.
+- **Connecting apps and automating flows:** email, sheets, databases and APIs wired together with triggers, loops and approvals.
+- **Evaluating AI quality:** token cost per reply, output format, tool behaviour, and why LLM test cases fail, ranked as product problems.
+- **Skills over repetition:** if I do a task twice, it becomes a reusable AI skill.
 
-- **Associate Product Manager**: product discovery, specs and launches.
-- **Software Engineering Intern, Walmart**: shipped production code in a large engineering organisation.
-- **Software Engineering Intern, Sprinklr**: shipped production code on an enterprise SaaS platform.
+## 🔒 Customer and platform work
 
-## 🚀 Featured project: LightCraft for iPad
+Most of my AI agent, automation and release-quality work is for enterprise customers, so I can't show it here. I'm happy to walk through how I approach it on a call:
 
-A photo library and raw developer written in Rust (egui, Metal). I took the desktop app and made it a **native iPad app**
-without changing the desktop one.
+- how I test AI agents before they reach a customer, including cost, output format and tool behaviour
+- how I run a release sanity pass and decide whether an environment is safe to hand over
+- how I turn a repeated task into a reusable AI skill
 
-- Liquid-Glass-style touch UI, landscape / portrait / Split View, Apple Pencil gestures (draw `1`-`5` to rate, ✓ to pick, ✗ to reject).
-- Subject masks with Apple Vision, so there's no model to download; library relinking when iPadOS changes the app container.
-- Reviewed like a product: geometric UI lint, Gemini and DeepSeek as reviewers (every finding verified), pixel-diffing ~120 desktop screens against the original to prove the desktop stayed identical.
+Email [kislayr.neetandon@gmail.com](mailto:kislayr.neetandon@gmail.com) to set one up.
+
+## 🧭 Product craft
+
+Discovery, problem framing, PRDs, prioritisation, metrics and launch. Triage that separates bugs from configuration problems and product decisions. Data-readiness audits tied to the KPIs they feed. Handover docs and demo videos.
+
+## 🧪 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**LightCraft for iPad**](https://github.com/storytold/lightcraft/pull/2950) | Native iPad port of a Rust raw photo developer. The desktop app stayed pixel-identical, which I proved by diffing about 120 screens. Liquid-Glass-style touch UI, Apple Pencil gestures (draw `1`-`5` to rate, ✓ to pick, ✗ to reject), Apple Vision subject masks. | Rust, egui, Metal, Swift |
 
 [Pull request](https://github.com/storytold/lightcraft/pull/2950) · [Methodology](https://github.com/KislayTandon22/lightcraft/blob/ios-port/docs/ios-port.md)
+
+## 📷 Beyond work: photography
+
+I shoot and edit photos as [@kislay.raw](https://www.instagram.com/kislay.raw). LightCraft started from wanting a raw developer that works the way I do on an iPad.
+
+## 🏢 Experience
+
+| Role | |
+|---|---|
+| **Associate Product Manager** | Own release quality and the product's story; build agents and automations |
+| **Product Analyst** | Data audits and AI evaluation analysis |
+| **Software Engineering Intern, Walmart** | Shipped production code at scale |
+| **Software Engineering Intern, Sprinklr** | Shipped production code on an enterprise SaaS platform |
 
 ## 🛠 Toolbox
 
@@ -49,6 +72,7 @@ without changing the desktop one.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ## 📈 GitHub stats
 
@@ -59,7 +83,7 @@ without changing the desktop one.
 
 ## 📬 Let's talk
 
-Interested in product roles that need someone who can ship, or in photo / creative tooling? Email
+Hiring for AI product, agent or platform roles? Happy to walk through my work on a call. Email
 [kislayr.neetandon@gmail.com](mailto:kislayr.neetandon@gmail.com).
 
 <sub>Built with ☕ and a lot of pull requests.</sub>
